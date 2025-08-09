@@ -1,2 +1,2 @@
 # pysphere-assignment-1b
-Python Script to calculate voltage from current and resistance
+Python Script to calculate voltage using Ohm's Law: Voltage, V = A * I
